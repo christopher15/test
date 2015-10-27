@@ -41,3 +41,9 @@ nonronfleurHF=split(z$N,z$N$SEXE)
 nonronfleurHF
 propnonronfleH=length(nonronfleurHF$H$AGE)/100
 propnonronfleH
+
+
+
+
+##j qsdfqsdfqdfs
+
